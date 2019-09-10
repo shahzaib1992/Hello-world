@@ -1,2 +1,3 @@
 # Hello-world
-Web developing
+
+I am a python programmer focusing on data analysis.
